@@ -368,8 +368,8 @@ class CfgBuildingLoot {
 		lootChance = 0.2;
 		lootPos[] = {};
 		itemType[] =	{
-			{"Remington870_lamp","weapon"},
-			{"Binocular","weapon"},
+			{"M40A3","weapon"},
+			{"AKS_74_kobra","weapon"},
 			{"ItemKnife","military"},
 			{"ItemMap","military"},
 			{"","medical"},
@@ -383,8 +383,8 @@ class CfgBuildingLoot {
 			{"Winchester1866","weapon"}
 		};
 		itemChance[] =	{
-			0.02,	//	{"Remington870_lamp","weapon"},
-			0.06,	//	{"Binocular","weapon"},
+			0.02,	//	{"M40A3","weapon"},
+			0.06,	//	{"AKS_74_kobra","weapon"},
 			0.10,	//	{"ItemKnife","military"},
 			0.05,	//	{"ItemMap","military"},
 			0.10,	//	{"","medical"},
@@ -406,16 +406,16 @@ class CfgBuildingLoot {
 		lootChance = 0.3;
 		lootPos[] = {};
 		itemType[] =	{
-			{"Remington870_lamp","weapon"},
+			{"M8_CARBINE","weapon"},
 			{"Binocular","weapon"},
 			{"ItemFlashlightRed","military"},
 			{"ItemKnife","military"},
-			{"ItemMap","military"},
+			{"ItemGPS","military"},
 			{"","medical"},
 			{"","generic"},
 			{"","military"},
 			{"","trash"},
-			{"LeeEnfield","weapon"},
+			{"NVGoggles","weapon"},
 			{"revolver_EP1","weapon"},
 			{"Winchester1866","weapon"}
 		};
